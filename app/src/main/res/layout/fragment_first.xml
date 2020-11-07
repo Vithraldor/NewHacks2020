@@ -53,11 +53,4 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <Spinner
-        android:id="@+id/spinner2"
-        android:layout_width="230dp"
-        android:layout_height="33dp"
-        tools:layout_editor_absoluteX="90dp"
-        tools:layout_editor_absoluteY="279dp" />
-
 </androidx.constraintlayout.widget.ConstraintLayout>
