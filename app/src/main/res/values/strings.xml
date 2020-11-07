@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TestProject</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="useSystemTime">Use system time</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="alternativeSystemTime">Alternatively, you can use your system time:</string>
+    <string name="timezoneSelectPrompt">Choose the timezone you are currently living in.</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
